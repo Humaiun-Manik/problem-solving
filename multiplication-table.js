@@ -1,4 +1,4 @@
-// print a multiplication table
+// # print a multiplication table
 // 10 * 1 = 10;
 
 function multiplication(num) {
