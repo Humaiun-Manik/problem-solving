@@ -1,3 +1,4 @@
+// # Print all the elements in an array then find the sum of all the elements.
 // input: [1,2,3,4,5,6,7,8,9,10]
 // output: 55;
 // arrayName[index]
